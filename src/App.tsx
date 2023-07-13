@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useAppDispatch, useAppSelector } from "./store";
-import todoSlice, { add, remove, toggleCompleted } from "./features/todoSlice";
+import { add, remove, toggleCompleted } from "./features/todoSlice";
 
 function App() {
   const todos = useAppSelector((state) => state.todos);

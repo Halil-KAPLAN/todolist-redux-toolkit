@@ -4,7 +4,7 @@ An example of todo list made using @reduxjs/toolkit.
 
 This example is published on the following site. You can check:
 
-https://   change later!!
+https://todolist-reactredux-ce4675.netlify.app/
 
 ## Tech Stack
 
