@@ -1,4 +1,4 @@
-# TodoList with React Redux
+# TodoList with React Toolkit
 
 An example of todo list made using @reduxjs/toolkit.
 
